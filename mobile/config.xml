@@ -7,13 +7,10 @@
 
     <description>
         __MSG_app_description__
-    </description>
-
-    <author>
+    </description><author>
         Author name and email
     </author>
-
-    <preference name="KeyboardShrinksView" value="true" />
+  <preference name="KeyboardShrinksView" value="true" />
     <preference name="StatusBarOverlaysWebView" value="false" />
     <preference name="StatusBarBackgroundColor" value="#000000" />
     <preference name="iosPersistentFileLocation" value="Library" />
